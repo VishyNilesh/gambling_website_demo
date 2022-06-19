@@ -1,0 +1,26 @@
+body{
+background-color:#011627;
+color: white;
+font-family: 'Staatliches', cursive;
+letter-spacing: 3px;
+border: 20px solid lightgreen;
+border-top: 0px;
+text-align: center;
+margin: 0px 0px;
+}
+p{
+  margin-top: 30px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+input{
+  margin-bottom: 20px;
+  margin-top: 5px;
+}
+#button{
+  background: orange;
+  color: black;
+  border-radius: 5px;
+  border-color: white;
+  padding: 10px;
+}
